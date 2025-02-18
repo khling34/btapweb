@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh sách bài tập</title>
+</head>
+<body>
+    <h1>Danh sách bài tập</h1>
+    <ul>
+        <li><a href="b1.html">Bài tập 1</a></li>
+        <li><a href="2b1.html">Bài tập 2</a></li>
+        <li><a href="2b2.html">Bài tập 2</a></li>
+        <li><a href="2b3.html">Bài tập 2</a></li>
+        <li><a href="b3.html">Bài tập 3</a></li>
+        <li><a href="b4.html">Bài tập 4</a></li>
+    </ul>
+</body>
+</html>
